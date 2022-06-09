@@ -31,6 +31,7 @@
     "xrm-mock": "^3.5.7"
   },
   "dependencies": {
+    "dataverse-ify": "^1.0.12",
     "moment": "^2.29.3"
   }
 }

@@ -1,0 +1,14 @@
+{
+  "entities": [
+    "account",
+    "activityparty",
+    "contact"
+  ],
+  "actions": [
+    "AddToQueue"
+  ],
+  "functions": [],
+  "output": {
+    "outputRoot": "./src/dataverse-gen"
+  }
+}

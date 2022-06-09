@@ -1,0 +1,15 @@
+{
+  "webresources": [
+    {
+      "profile": "default,debug",
+      "solution": "TempZarko",
+      "files": [
+        {
+          "uniquename": "zare_/js/clienthooks.js",
+          "file": "../clientcode/dist/clienthooks.js",
+          "description": "JavaScript for Forms and Commandbar Actions"
+        }
+      ]
+    }
+  ]
+}
